@@ -1,0 +1,2 @@
+
+export  type Thumbnails = string[]
